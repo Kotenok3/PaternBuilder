@@ -9,7 +9,10 @@ public class Computer
 
     public override string ToString()
     {
-        return "Computer:"
-               + String.Join(" ", new[] { Processor, GraphicsCard, RAM, HardDrive.ToString() });
+        return "Computer:" +
+               "Processor:" + (Processor ?? "doesn't have") +
+               "GraphicsCard:" + (GraphicsCard ?? "doesn't have") +
+               "RAM:" + (RAM ?? "doesn't have") +
+               "HardDrive:" + HardDrive;
     }
 }
