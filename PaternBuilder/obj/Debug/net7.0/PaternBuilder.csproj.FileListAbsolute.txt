@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\bin\Debug\net7.0\PaternBuilder.exe
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\bin\Debug\net7.0\PaternBuilder.deps.json
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\bin\Debug\net7.0\PaternBuilder.runtimeconfig.json
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\bin\Debug\net7.0\PaternBuilder.dll
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\bin\Debug\net7.0\PaternBuilder.pdb
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\PaternBuilder.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\PaternBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\PaternBuilder.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\PaternBuilder.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\PaternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\PaternBuilder.dll
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\refint\PaternBuilder.dll
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\PaternBuilder.pdb
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\PaternBuilder.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PaternBuilder\PaternBuilder\obj\Debug\net7.0\ref\PaternBuilder.dll
